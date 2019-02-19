@@ -1,0 +1,80 @@
+// Attacco
+"appraisal_attack" = "Attacco";
+
+// Difesa
+"appraisal_defense" = "Difesa";
+
+// Credo che le sue statistiche non siano il massimo, ma possono andare.
+"appraisal_instinct_best0" = "Credo che le sue statistiche non siano il massimo, ma possono andare.";
+
+// Che statistiche forti! Incredibile!
+"appraisal_instinct_best13" = "Che statistiche forti! Incredibile!";
+
+// Le sue statistiche sono senza dubbio le migliori che abbia mai visto!
+"appraisal_instinct_best15" = "Le sue statistiche sono senza dubbio le migliori che abbia mai visto!";
+
+// C’è certamente qualcosa di valido nelle sue statistiche.
+"appraisal_instinct_best8" = "C’è certamente qualcosa di valido nelle sue statistiche.";
+
+// ...potrebbe migliorare nelle lotte.
+"appraisal_instinct_overall0" = "...potrebbe migliorare nelle lotte.";
+
+// ...non è malaccio.
+"appraisal_instinct_overall51" = "...non è malaccio.";
+
+// ...è molto forte!
+"appraisal_instinct_overall66" = "...è molto forte!";
+
+// ...sembra potercela fare contro i migliori!
+"appraisal_instinct_overall82" = "...sembra potercela fare contro i migliori!";
+
+// Credo che le sue statistiche non siano fuori dell’ordinario.
+"appraisal_mystic_best0" = "Credo che le sue statistiche non siano fuori dell’ordinario.";
+
+// Devo dire che le sue statistiche sono eccellenti.
+"appraisal_mystic_best13" = "Devo dire che le sue statistiche sono eccellenti.";
+
+// Delle statistiche così non si sono mai viste. Incredibile.
+"appraisal_mystic_best15" = "Delle statistiche così non si sono mai viste. Incredibile.";
+
+// La sue statistiche sono piuttosto buone.
+"appraisal_mystic_best8" = "La sue statistiche sono piuttosto buone.";
+
+// ...non avrà grande successo nelle lotte.
+"appraisal_mystic_overall0" = "...non avrà grande successo nelle lotte.";
+
+// ...è sopra la media.
+"appraisal_mystic_overall51" = "...è sopra la media.";
+
+// ...ha attirato la mia attenzione.
+"appraisal_mystic_overall66" = "...ha attirato la mia attenzione.";
+
+// ...è una meraviglia assoluta. Che esemplare unico!
+"appraisal_mystic_overall82" = "...è una meraviglia assoluta. Che esemplare unico!";
+
+// PS
+"appraisal_stamina" = "PS";
+
+// Delle statistiche del genere non gli saranno di grande aiuto nella lotta.
+"appraisal_valor_best0" = "Delle statistiche del genere non gli saranno di grande aiuto nella lotta.";
+
+// Ha delle statistiche eccellenti. Forte!
+"appraisal_valor_best13" = "Ha delle statistiche eccellenti. Forte!";
+
+// Che statistiche sbalorditive. Non riesco a credere ai miei occhi!
+"appraisal_valor_best15" = "Che statistiche sbalorditive. Non riesco a credere ai miei occhi!";
+
+// Delle statistiche del genere dovrebbero bastare nelle lotte.
+"appraisal_valor_best8" = "Delle statistiche del genere dovrebbero bastare nelle lotte.";
+
+// ...potrebbe non essere forte nella lotta, ma mi piace lo stesso!
+"appraisal_valor_overall0" = "...potrebbe non essere forte nella lotta, ma mi piace lo stesso!";
+
+// ...non è niente male.
+"appraisal_valor_overall51" = "...non è niente male.";
+
+// ...è molto forte. Devi esserne orgoglioso!
+"appraisal_valor_overall66" = "...è molto forte. Devi esserne orgoglioso!";
+
+// ...è semplicemente stupefacente. Non ha rivali!
+"appraisal_valor_overall82" = "...è semplicemente stupefacente. Non ha rivali!";

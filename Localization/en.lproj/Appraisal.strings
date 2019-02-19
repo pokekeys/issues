@@ -1,0 +1,80 @@
+// Attack
+"appraisal_attack" = "Attack";
+
+// Defense
+"appraisal_defense" = "Defense";
+
+// Its stats are all right, but kinda basic, as far as I can see.
+"appraisal_instinct_best0" = "Its stats are all right, but kinda basic, as far as I can see.";
+
+// Its stats are really strong! Impressive!
+"appraisal_instinct_best13" = "Its stats are really strong! Impressive!";
+
+// Its stats are the best I've ever seen! No doubt about it!
+"appraisal_instinct_best15" = "Its stats are the best I've ever seen! No doubt about it!";
+
+// It's definitely got some good stats. Definitely!
+"appraisal_instinct_best8" = "It's definitely got some good stats. Definitely!";
+
+// ...has room for improvement as far as battling goes.
+"appraisal_instinct_overall0" = "...has room for improvement as far as battling goes.";
+
+// ...is pretty decent!
+"appraisal_instinct_overall51" = "...is pretty decent!";
+
+// ...is really strong!
+"appraisal_instinct_overall66" = "...is really strong!";
+
+// ...looks like it can really battle with the best of them!
+"appraisal_instinct_overall82" = "...looks like it can really battle with the best of them!";
+
+// Its stats are not out of the norm, in my estimation.
+"appraisal_mystic_best0" = "Its stats are not out of the norm, in my estimation.";
+
+// I am certainly impressed by its stats, I must say.
+"appraisal_mystic_best13" = "I am certainly impressed by its stats, I must say.";
+
+// Its stats exceed my calculations. It's incredible!
+"appraisal_mystic_best15" = "Its stats exceed my calculations. It's incredible!";
+
+// Its stats are noticeably trending to the positive.
+"appraisal_mystic_best8" = "Its stats are noticeably trending to the positive.";
+
+// ...is not likely to make much headway in battle.
+"appraisal_mystic_overall0" = "...is not likely to make much headway in battle.";
+
+// ...is above average.
+"appraisal_mystic_overall51" = "...is above average.";
+
+// ...has certainly caught my attention.
+"appraisal_mystic_overall66" = "...has certainly caught my attention.";
+
+// ...is a wonder! What a breathtaking Pokémon!
+"appraisal_mystic_overall82" = "...is a wonder! What a breathtaking Pokémon!";
+
+// HP
+"appraisal_stamina" = "HP";
+
+// Its stats don't point to greatness in battle.
+"appraisal_valor_best0" = "Its stats don't point to greatness in battle.";
+
+// It's got excellent stats! How exciting!
+"appraisal_valor_best13" = "It's got excellent stats! How exciting!";
+
+// I'm blown away by its stats. WOW!
+"appraisal_valor_best15" = "I'm blown away by its stats. WOW!";
+
+// Its stats indicate that in battle, it'll get the job done.
+"appraisal_valor_best8" = "Its stats indicate that in battle, it'll get the job done.";
+
+// ...may not be great in battle, but I still like it!
+"appraisal_valor_overall0" = "...may not be great in battle, but I still like it!";
+
+// ...is a decent Pokémon.
+"appraisal_valor_overall51" = "...is a decent Pokémon.";
+
+// ...is a strong Pokémon. You should be proud!
+"appraisal_valor_overall66" = "...is a strong Pokémon. You should be proud!";
+
+// ...simply amazes me. It can accomplish anything!
+"appraisal_valor_overall82" = "...simply amazes me. It can accomplish anything!";

@@ -1,0 +1,80 @@
+// Attaque
+"appraisal_attack" = "Attaque";
+
+// Défense
+"appraisal_defense" = "Défense";
+
+// Ses stats ne sont pas mal, mais un peu basiques, il me semble.
+"appraisal_instinct_best0" = "Ses stats ne sont pas mal, mais un peu basiques, il me semble.";
+
+// Ses stats sont super élevées. Impressionnant !
+"appraisal_instinct_best13" = "Ses stats sont super élevées. Impressionnant !";
+
+// Ses stats sont les meilleures que j'ai jamais vues ! Sans aucun doute !
+"appraisal_instinct_best15" = "Ses stats sont les meilleures que j'ai jamais vues ! Sans aucun doute !";
+
+// Il a quelques bonnes stats, c'est sûr !
+"appraisal_instinct_best8" = "Il a quelques bonnes stats, c'est sûr !";
+
+// ...peut devenir un meilleur combattant.
+"appraisal_instinct_overall0" = "...peut devenir un meilleur combattant.";
+
+// ...est plutôt bien !
+"appraisal_instinct_overall51" = "...est plutôt bien !";
+
+// ...est vraiment fort !
+"appraisal_instinct_overall66" = "...est vraiment fort !";
+
+// ...semble capable de tenir tête aux meilleurs !
+"appraisal_instinct_overall82" = "...semble capable de tenir tête aux meilleurs !";
+
+// Ses stats n'ont rien d'anormal, à priori.
+"appraisal_mystic_best0" = "Ses stats n'ont rien d'anormal, à priori.";
+
+// Je suis impressionnée par ses stats, à vrai dire.
+"appraisal_mystic_best13" = "Je suis impressionnée par ses stats, à vrai dire.";
+
+// Ses stats dépassent tous mes calculs, c'est incroyable !
+"appraisal_mystic_best15" = "Ses stats dépassent tous mes calculs, c'est incroyable !";
+
+// Ses stats s'améliorent à vue d'œil.
+"appraisal_mystic_best8" = "Ses stats s'améliorent à vue d'œil.";
+
+// ...n'ira pas très loin au combat.
+"appraisal_mystic_overall0" = "...n'ira pas très loin au combat.";
+
+// ...est supérieur à la moyenne.
+"appraisal_mystic_overall51" = "...est supérieur à la moyenne.";
+
+// ...a retenu toute mon attention.
+"appraisal_mystic_overall66" = "...a retenu toute mon attention.";
+
+// ...est une merveille. Un Pokémon captivant !
+"appraisal_mystic_overall82" = "...est une merveille. Un Pokémon captivant !";
+
+// PV
+"appraisal_stamina" = "PV";
+
+// Ses stats ne t’aideront pas beaucoup au combat.
+"appraisal_valor_best0" = "Ses stats ne t’aideront pas beaucoup au combat.";
+
+// Ses stats sont excellentes ! C'est super !
+"appraisal_valor_best13" = "Ses stats sont excellentes ! C'est super !";
+
+// Je suis estomaquée par ses stats. Bravo !
+"appraisal_valor_best15" = "Je suis estomaquée par ses stats. Bravo !";
+
+// Ses stats indiquent qu'il va faire des dégâts au combat.
+"appraisal_valor_best8" = "Ses stats indiquent qu'il va faire des dégâts au combat.";
+
+// ...n'est pas un combattant, mais je l'aime bien.
+"appraisal_valor_overall0" = "...n'est pas un combattant, mais je l'aime bien.";
+
+// ...est un Pokémon solide !
+"appraisal_valor_overall51" = "...est un Pokémon solide !";
+
+// ...est très fort. Tu dois être fier !
+"appraisal_valor_overall66" = "...est très fort. Tu dois être fier !";
+
+// ...m’étonne beaucoup. Il peut tout faire !
+"appraisal_valor_overall82" = "...m’étonne beaucoup. Il peut tout faire !";

@@ -1,0 +1,80 @@
+// Ataque
+"appraisal_attack" = "Ataque";
+
+// Defensa
+"appraisal_defense" = "Defensa";
+
+// Sus características están... bien, supongo.
+"appraisal_instinct_best0" = "Sus características están... bien, supongo.";
+
+// ¡Sus características son realmente fuertes! ¡Es impresionante!
+"appraisal_instinct_best13" = "¡Sus características son realmente fuertes! ¡Es impresionante!";
+
+// ¡Sus características son lo mejor que he visto nunca! ¡Qué pasada!
+"appraisal_instinct_best15" = "¡Sus características son lo mejor que he visto nunca! ¡Qué pasada!";
+
+// Tiene buenas características, sin duda.
+"appraisal_instinct_best8" = "Tiene buenas características, sin duda.";
+
+// ...podría mejorar algo en lo que se refiere a combates.
+"appraisal_instinct_overall0" = "...podría mejorar algo en lo que se refiere a combates.";
+
+// ...está bastante bien.
+"appraisal_instinct_overall51" = "...está bastante bien.";
+
+// ...es realmente fuerte!
+"appraisal_instinct_overall66" = "...es realmente fuerte!";
+
+// ...puede enfrentarse a los mejores!
+"appraisal_instinct_overall82" = "...puede enfrentarse a los mejores!";
+
+// Sus características dejan un poco que desear, yo diría.
+"appraisal_mystic_best0" = "Sus características dejan un poco que desear, yo diría.";
+
+// Debo decir que sus características son realmente impresionantes.
+"appraisal_mystic_best13" = "Debo decir que sus características son realmente impresionantes.";
+
+// Sus características están fuera de todo cálculo. ¡Es increíble!
+"appraisal_mystic_best15" = "Sus características están fuera de todo cálculo. ¡Es increíble!";
+
+// Sus características están bastante bien.
+"appraisal_mystic_best8" = "Sus características están bastante bien.";
+
+// ...vaya a llegar muy lejos en combate.
+"appraisal_mystic_overall0" = "...vaya a llegar muy lejos en combate.";
+
+// ...está por encima de la media.
+"appraisal_mystic_overall51" = "...está por encima de la media.";
+
+// ...me ha llamado ciertamente la atención.
+"appraisal_mystic_overall66" = "...me ha llamado ciertamente la atención.";
+
+// ...es una maravilla para la vista. ¡Qué espécimen tan impresionante!
+"appraisal_mystic_overall82" = "...es una maravilla para la vista. ¡Qué espécimen tan impresionante!";
+
+// PS
+"appraisal_stamina" = "PS";
+
+// Sus características no te serán de mucha utilidad en combate.
+"appraisal_valor_best0" = "Sus características no te serán de mucha utilidad en combate.";
+
+// Cuenta con excelentes características. ¡Qué emocionante!
+"appraisal_valor_best13" = "Cuenta con excelentes características. ¡Qué emocionante!";
+
+// Estoy flipando con sus características. ¡GUAU!
+"appraisal_valor_best15" = "Estoy flipando con sus características. ¡GUAU!";
+
+// Sus características te ayudarán a cumplir tu objetivo en combate.
+"appraisal_valor_best8" = "Sus características te ayudarán a cumplir tu objetivo en combate.";
+
+// ...puede que no sea el mejor en combate, pero aun así me gusta.
+"appraisal_valor_overall0" = "...puede que no sea el mejor en combate, pero aun así me gusta.";
+
+// ...está bastante bien.
+"appraisal_valor_overall51" = "...está bastante bien.";
+
+// ...es muy fuerte. ¡Qué orgullo debes sentir!
+"appraisal_valor_overall66" = "...es muy fuerte. ¡Qué orgullo debes sentir!";
+
+// ...simplemente me fascina. ¡Puede lograr cualquier cosa!
+"appraisal_valor_overall82" = "...simplemente me fascina. ¡Puede lograr cualquier cosa!";

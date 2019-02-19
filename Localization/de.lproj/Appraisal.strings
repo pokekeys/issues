@@ -1,0 +1,80 @@
+// Angriffs-Wert
+"appraisal_attack" = "Angriffs-Wert";
+
+// Verteidigungs-Wert
+"appraisal_defense" = "Verteidigungs-Wert";
+
+// Seine Werte sind okay.
+"appraisal_instinct_best0" = "Seine Werte sind okay.";
+
+// Seine Werte sind wirklich hoch! Hut ab!
+"appraisal_instinct_best13" = "Seine Werte sind wirklich hoch! Hut ab!";
+
+// Seine Werte sind die besten, die ich je gesehen habe! Daran besteht kein Zweifel!
+"appraisal_instinct_best15" = "Seine Werte sind die besten, die ich je gesehen habe! Daran besteht kein Zweifel!";
+
+// Seine Werte können sich sehen lassen!
+"appraisal_instinct_best8" = "Seine Werte können sich sehen lassen!";
+
+// ...kann sich im Kampf noch verbessern!
+"appraisal_instinct_overall0" = "...kann sich im Kampf noch verbessern!";
+
+// ...ist insgesamt ganz gut.
+"appraisal_instinct_overall51" = "...ist insgesamt ganz gut.";
+
+// ...ist insgesamt wirklich stark!
+"appraisal_instinct_overall66" = "...ist insgesamt wirklich stark!";
+
+// ...kann es im Kampf mit allen aufnehmen!
+"appraisal_instinct_overall82" = "...kann es im Kampf mit allen aufnehmen!";
+
+// Seine Werte sind insgesamt ganz okay.
+"appraisal_mystic_best0" = "Seine Werte sind insgesamt ganz okay.";
+
+// Ich muss sagen, dass ich von seinen Werten sehr beeindruckt bin.
+"appraisal_mystic_best13" = "Ich muss sagen, dass ich von seinen Werten sehr beeindruckt bin.";
+
+// Seine Werte sind so hoch, dass ich sie gar nicht berechnen kann! Unglaublich!
+"appraisal_mystic_best15" = "Seine Werte sind so hoch, dass ich sie gar nicht berechnen kann! Unglaublich!";
+
+// Seine Werte sind recht beeindruckend.
+"appraisal_mystic_best8" = "Seine Werte sind recht beeindruckend.";
+
+// ...wird im Kampf insgesamt wahrscheinlich keine großen Fortschritte machen.
+"appraisal_mystic_overall0" = "...wird im Kampf insgesamt wahrscheinlich keine großen Fortschritte machen.";
+
+// ...ist insgesamt ein gutes Pokémon.
+"appraisal_mystic_overall51" = "...ist insgesamt ein gutes Pokémon.";
+
+// ...ist mir insgesamt wirklich aufgefallen.
+"appraisal_mystic_overall66" = "...ist mir insgesamt wirklich aufgefallen.";
+
+// ...ist insgesamt einfach erstaunlich. Wirklich ein atemberaubendes Exemplar!
+"appraisal_mystic_overall82" = "...ist insgesamt einfach erstaunlich. Wirklich ein atemberaubendes Exemplar!";
+
+// KP
+"appraisal_stamina" = "KP";
+
+// Seine Werte werden dir im Kampf nicht viel bringen.
+"appraisal_valor_best0" = "Seine Werte werden dir im Kampf nicht viel bringen.";
+
+// Es hat hervorragende Werte! Wie aufregend!
+"appraisal_valor_best13" = "Es hat hervorragende Werte! Wie aufregend!";
+
+// Seine Werte hauen mich um. WOW!
+"appraisal_valor_best15" = "Seine Werte hauen mich um. WOW!";
+
+// Seine Werte sind nicht von schlechten Eltern!
+"appraisal_valor_best8" = "Seine Werte sind nicht von schlechten Eltern!";
+
+// ...ist zwar insgesamt im Kampf nicht allzu beeindruckend, aber ich mag es trotzdem!
+"appraisal_valor_overall0" = "...ist zwar insgesamt im Kampf nicht allzu beeindruckend, aber ich mag es trotzdem!";
+
+// ...ist insgesamt ganz gut!
+"appraisal_valor_overall51" = "...ist insgesamt ganz gut!";
+
+// ...ist insgesamt sehr stark. Du kannst stolz sein!
+"appraisal_valor_overall66" = "...ist insgesamt sehr stark. Du kannst stolz sein!";
+
+// ...bin ich insgesamt total beeindruckt. Es kann einfach alles!
+"appraisal_valor_overall82" = "...bin ich insgesamt total beeindruckt. Es kann einfach alles!";
