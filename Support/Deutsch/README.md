@@ -2,6 +2,7 @@
 
 - [Installation](#installation)
 - [Live IV Check aktivieren](#live-iv-check-aktivieren)
+- [Bekannte Probleme](#bekannte-probleme)
 
 ## Installation
 
@@ -61,3 +62,12 @@
 ![Live IV Check 5](Images/Live_IV/Live_IV_05.png)
 
 ![Live IV Check 6](Images/Live_IV/Live_IV_06.png)
+
+## Bekannte Probleme
+
+**Banner wird nicht angezeigt**
+
+- Überprüfen, ob eine Mitteilung von "PokéKeys" in der "Mitteilungszentrale" angezeigt wird
+- Sicherstellen, dass der "Nicht Stören"-Modus ausgestellt ist (Einstellungen -> Nicht stören -> Nicht stören)
+- Falls eine Apple Watch gekoppelt ist: Mitteilungsübertragung von "PokéKeys" in der "Watch"-App ausschalten (Watch -> Meine Uhr -> Mitteilungen -> PokéKeys)
+- Warten bis der WP-Wert gut zu lesen ist und leicht von rechts nach links wackeln (durch den Hintergrund werden manchmal Werte verdeckt)
