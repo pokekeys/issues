@@ -2,6 +2,7 @@
 
 - [Installation](#installation)
 - [Enable Live IV Check](#enable-live-iv-check)
+- [Known Issues](#known-issues)
 
 ## Installation
 
@@ -61,3 +62,12 @@
 ![Live IV Check 5](Images/Live_IV/Live_IV_05.png)
 
 ![Live IV Check 6](Images/Live_IV/Live_IV_06.png)
+
+## Known Issues
+
+**Banner is not shown**
+
+- Check if a notification from "PokéKeys" is visible in the "Notification Centre"
+- Ensure "Do Not Disturb" mode is deactivated (Settings -> Do Not Disturb -> Do Not Disturb)
+- If an Apple Watch is paired: disable notifications from "PokéKeys" in the "Watch" app (Watch -> My Watch -> Notifications -> PokéKeys)
+- Wait until CP value is visible and slightly nudge the screen (sometimes the background makes values hard to read)
