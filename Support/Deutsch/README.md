@@ -1,6 +1,7 @@
 # PokeKeys
 
 - [Installation](#installation)
+- [Live IV Check aktivieren](#live-iv-check-aktivieren)
 
 ## Installation
 
@@ -38,3 +39,25 @@
 ![Installation 11](Images/Installation/Installation_11.png)
 
 ![Installation 12](Images/Installation/Installation_12.png)
+
+## Live IV Check aktivieren
+
+1. Die Entwicklung von "PokéKeys" unterstützen und damit die Pro-Features frei schalten (jede Unterstützung schaltet Pro frei)
+2. Die Option "Enable IV Checker" aktivieren
+3. Das Kontrollzentrum öffnen und fest auf das Aufnahme-Symbol drücken (3D Touch)
+4. Die Option "Live IV Check" auswählen und "Übertragung starten" drücken
+5. "Pokémon go" App öffnen - ein roter Aufnahme-Banner sollte zu sehen sein
+6. Detailansicht eines Pokémon öffnen (eventuell leicht und langsam von rechts nach links wackeln) und Mitteilungen "Erlauben"
+7. Banner mit Pokémon-Informationen erscheint
+
+![Live IV Check 1](Images/Live_IV/Live_IV_01.png)
+
+![Live IV Check 2](Images/Live_IV/Live_IV_02.png)
+
+![Live IV Check 3](Images/Live_IV/Live_IV_03.png)
+
+![Live IV Check 4](Images/Live_IV/Live_IV_04.png)
+
+![Live IV Check 5](Images/Live_IV/Live_IV_05.png)
+
+![Live IV Check 6](Images/Live_IV/Live_IV_06.png)
