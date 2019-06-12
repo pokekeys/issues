@@ -1,6 +1,7 @@
 # PokeKeys
 
 - [Installation](#installation)
+- [Trainer-Level einstellen](#trainer-level-einstellen)
 - [Live IV Check aktivieren](#live-iv-check-aktivieren)
 - [Bekannte Probleme](#bekannte-probleme)
 
@@ -40,6 +41,30 @@
 ![Installation 11](Images/Installation/Installation_11.png)
 
 ![Installation 12](Images/Installation/Installation_12.png)
+
+## Trainer Level einstellen
+
+1. "Pokémon go" App öffnen und die Detailansicht eines Pokémon öffnen
+2. Screenshot der Detailansicht machen
+3. Bleistift zum Umbennen des Pokémons drücken
+4. Tastatur auf "PokéKeys" umstellen
+5. "IV Checker"-Button drücken
+6. Trainer-Button drücken
+7. Trainer-Level einstellen und "Set" drücken
+
+![Trainer 3](Images/Trainer/Trainer_03.png)
+
+![Trainer 4.1](Images/Trainer/Trainer_04-1.png)
+
+![Trainer 4.2](Images/Trainer/Trainer_04-2.png)
+
+![Trainer 5](Images/Trainer/Trainer_05.png)
+
+![Trainer 6](Images/Trainer/Trainer_06.png)
+
+![Trainer 7.1](Images/Trainer/Trainer_07-1.png)
+
+![Trainer 7.2](Images/Trainer/Trainer_07-2.png)
 
 ## Live IV Check aktivieren
 
