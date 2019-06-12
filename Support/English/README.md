@@ -44,7 +44,7 @@
 ## Enable Live IV Check
 
 1. Support the development of "PokéKeys" and unlock pro features (every option unlocks pro)
-2. Enable "Enable IV Checker"
+2. Enable "Enable IV Checker" and "Check IV automatically"
 3. Open Control Centre and press screen recording button (3D Touch)
 4. Activate "Live IV Check" and press "Start Broadcast"
 5. Open "Pokémon go" app - a red banner should appear to signalise screen recording

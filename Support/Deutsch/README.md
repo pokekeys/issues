@@ -44,7 +44,7 @@
 ## Live IV Check aktivieren
 
 1. Die Entwicklung von "PokéKeys" unterstützen und damit die Pro-Features frei schalten (jede Unterstützung schaltet Pro frei)
-2. Die Option "Enable IV Checker" aktivieren
+2. Die Optionen "Enable IV Checker" und "Check IV automatically" aktivieren
 3. Das Kontrollzentrum öffnen und fest auf das Aufnahme-Symbol drücken (3D Touch)
 4. Die Option "Live IV Check" auswählen und "Übertragung starten" drücken
 5. "Pokémon go" App öffnen - ein roter Aufnahme-Banner sollte zu sehen sein
