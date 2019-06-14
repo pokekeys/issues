@@ -1,6 +1,7 @@
 # PokeKeys
 
 - [Installation](#installation)
+- [Set up trainer level](#set-up-trainer-level)
 - [Enable Live IV Check](#enable-live-iv-check)
 - [Known Issues](#known-issues)
 
@@ -41,10 +42,34 @@
 
 ![Installation 12](Images/Installation/Installation_12.png)
 
+## Set up trainer level
+
+1. Open "Pokémon go" app and open the detail view of a Pokémon
+2. Take a screenshot of the detail view
+3. Press the pencil to edit the Pokémons name
+4. Change the keyboard to "PokéKeys"
+5. Press the "IV Checker" button
+6. Press the trainer button
+7. Set your trainer level and press "Set"
+
+![Trainer 3](Images/Trainer/Trainer_03.png)
+
+![Trainer 4.1](Images/Trainer/Trainer_04-1.png)
+
+![Trainer 4.2](Images/Trainer/Trainer_04-2.png)
+
+![Trainer 5](Images/Trainer/Trainer_05.png)
+
+![Trainer 6](Images/Trainer/Trainer_06.png)
+
+![Trainer 7.1](Images/Trainer/Trainer_07-1.png)
+
+![Trainer 7.2](Images/Trainer/Trainer_07-2.png)
+
 ## Enable Live IV Check
 
 1. Support the development of "PokéKeys" and unlock pro features (every option unlocks pro)
-2. Enable "Enable IV Checker"
+2. Enable "Enable IV Checker" and "Check IV automatically"
 3. Open Control Centre and press screen recording button (3D Touch)
 4. Activate "Live IV Check" and press "Start Broadcast"
 5. Open "Pokémon go" app - a red banner should appear to signalise screen recording
