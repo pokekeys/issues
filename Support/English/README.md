@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. Install [PokeKeys](https://itunes.apple.com/de/app/pokekeys/id1335234519?mt=8) by Victor Pavlychko
+1. Install [PokeKeys](https://itunes.apple.com/app/pokekeys/id1335234519?mt=8) by Victor Pavlychko
 2. Open system "Settings"
 3. Open "General" menu
 4. Open "Keyboard" menu
