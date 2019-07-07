@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. [PokeKeys](https://itunes.apple.com/de/app/pokekeys/id1335234519?mt=8) von Victor Pavlychko installieren
+1. [PokeKeys](https://itunes.apple.com/app/pokekeys/id1335234519?mt=8) von Victor Pavlychko installieren
 2. System-"Einstellungen" öffnen
 3. Das Menü "Allgemein" öffnen
 4. Das Menü "Tastatur" öffnen
